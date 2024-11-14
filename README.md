@@ -1,5 +1,5 @@
 # Prerequisites
-####42q
+####42qamos abos
 - JDK 21
 - Maven 3.9 
 - MySQL 8
